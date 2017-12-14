@@ -1,0 +1,10 @@
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\bin\Debug\GenerageMessages.Data.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\bin\Debug\GenerageMessages.Data.pdb
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\bin\Debug\GenerageMessages.Models.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\bin\Debug\GenerageMessages.Models.pdb
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\obj\Debug\GenerateMessages.Data.csprojResolveAssemblyReference.cache
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\obj\Debug\GenerateMessages.Data.csproj.CoreCompileInputs.cache
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\obj\Debug\GenerageMessages.Data.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Data\obj\Debug\GenerageMessages.Data.pdb

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Welcome",
+    "message": "{Greeting} {FirstName}, and welcome to {Company}! Room {RoomNumber} is now ready for you. Enjoy your stay, and let us know if you need anything."
+  },
+  {
+    "id": 2,
+    "name": "Check-Out",
+    "message": "{Greeting} {FirstName}, as a reminder your check-out time is {Check-Out} {Timezone}. If you'd like to extend or make changes to your stay, I'd be glad to assist you."
+  },
+  {
+    "id": 3,
+    "name": "Follow-Up",
+    "message": "Thank you for staying with us at {Company}, We hope you enjoyed your stay and hope to see you again soon."
+  },
+  {
+    "id": 4,
+    "name": "Tour the City",
+    "message": "{Greeting} {FirstName} {LastName}, there are several things to do in {City}. Check out our excursion packages at www.tour{Company}.com."
+  },
+  {
+    "id": 5,
+    "name": "Looking forward",
+    "message": "{Greeting} {FirstName}, We look forward to serving you {Check-In} {Timezone}."
+  },
+  {
+    "id": 6,
+    "name": "Testing Add Templates",
+    "message": "{Greeting} {FirstName} {LastName}! Enjoy touring my message generator."
+  }
+]

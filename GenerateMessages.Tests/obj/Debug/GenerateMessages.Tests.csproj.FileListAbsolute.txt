@@ -1,0 +1,15 @@
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\GenerateMessages.Tests.dll.config
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\GenerateMessages.Tests.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\GenerateMessages.Tests.pdb
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\GenerageMessages.Models.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\nunit.framework.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\GenerageMessages.Models.pdb
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\nunit.framework.xml
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\obj\Debug\GenerateMessages.Tests.csprojResolveAssemblyReference.cache
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\obj\Debug\GenerateMessages.Tests.csproj.CoreCompileInputs.cache
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\obj\Debug\GenerateMessages.Tests.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\obj\Debug\GenerateMessages.Tests.pdb
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\GenerageMessages.BLL.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Tests\bin\Debug\GenerageMessages.BLL.pdb

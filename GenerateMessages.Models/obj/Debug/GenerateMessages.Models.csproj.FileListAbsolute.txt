@@ -1,0 +1,5 @@
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Models\bin\Debug\GenerageMessages.Models.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Models\bin\Debug\GenerageMessages.Models.pdb
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Models\obj\Debug\GenerateMessages.Models.csproj.CoreCompileInputs.cache
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Models\obj\Debug\GenerageMessages.Models.dll
+C:\Repos\KCodingProject\GenerateMessages\GenerateMessages.Models\obj\Debug\GenerageMessages.Models.pdb

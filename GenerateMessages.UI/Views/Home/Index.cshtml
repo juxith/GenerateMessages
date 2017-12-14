@@ -1,0 +1,57 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<br />
+<div id="errorMessages"></div>
+<div class="row">
+    <h3 align="center">Generate Messages from Templates</h3>
+    <div class="col-xs-3"></div>
+    <div class="col-xs-3" id="leftPanel">
+        <label>Guest</label>
+        <select id="guestSelection" class="form-control">
+            <option selected disabled>-Select Guest-</option>
+        </select><br />
+        <label>Company</label>
+        <select id="companySelection" class="form-control">
+            <option selected disabled>-Select Company-</option>
+        </select><br />
+        <label>Templates</label>
+        <select id="templateSelection" class="form-control">
+            <option selected disabled>-Select Template-</option>
+        </select><br />
+        <div id="templateSection">
+            <h4>Template Preview:</h4>
+            <div>
+                <div id="messagePreview"></div>
+            </div>
+        </div>
+    </div><br />
+    <div class="col-xs-6" id="generatedSection">
+        <h4>Generated Message:</h4>
+        <div id="generatedMessage">
+        </div>
+    </div>
+    <div class="col-xs-12" align="center">
+        <button type="button" id="submitButton" class="btn btn-success">Generate</button>
+    </div>
+</div><br />
+<h4 align="center">- OR -</h4>
+<h3 align="center">Create your own templates</h3>
+<div class="container" align="center">
+    <input id="newTemplateName" type="text" placeholder="Enter new template name" class="form-control" /><br />
+    <label>Add Greeting ("Good morning")</label>
+    <input type="radio" id="greeting" /><br />
+    <textarea id="newMessage" placeholder="Enter template message here." class="form-control"></textarea>
+    <p>Add Placeholders to Message</p>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{FirstName}">First name</button>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{LastName}">Last name</button>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{RoomNumber}">Room#</button>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{Company}">Company</button>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{Check-In}">Check-in</button>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{Check-Out}">Check-out</button>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{City}">City</button>
+    <button class="btn btn-info btn-xs placeHolderButton" data-placeholder="{Timezone}">Timezone</button><br />
+</div><br />
+<div align="center"><button type="button" class="btn btn-sm btn-primary" id="newTemplateButton" align="right">Create Template</button></div>
+<script src="~/Scripts/jquery-3.2.1.js"></script>
+<script src="~/Scripts/Home.js"></script>
